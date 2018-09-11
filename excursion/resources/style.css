@@ -1,0 +1,55 @@
+*{font-family: Verdana;
+}
+
+.center {
+  margin: 0 auto; width: 400px;
+}
+
+body {
+  background-color:#000000;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color: white;
+text-align: center;
+font-weight: 300;
+font-size: 42px;
+}
+
+h3 {
+  font-size: 21px;
+  color:#808080;
+  text-align: center;
+}
+
+p {
+  color: #808080;
+  font-size: 21px;
+text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+#app {
+  text-align: center;
+}
+#video{
+  text-align: center;
+}
+#image {
+  text-align: center;
+}
+.footer{
+  text-align: right;
+}
+.app{
+  text-align= center;
+}
